@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Project Path="GameCreator.Runtime.Core.csproj" />
+  <Project Path="GameCreator.Editor.Core.csproj" />
+  <Project Path="VFolders.csproj" />
+  <Project Path="com.flipbookgames.scriptinspector3.csproj" />
+  <Project Path="VHierarchy.csproj" />
+  <Project Path="GameCreator.Tests.Core.csproj" />
+  <Project Path="VTabs.csproj" />
+  <Project Path="VInspector.csproj" />
+  <Project Path="VFavorites.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
