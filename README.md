@@ -2,6 +2,8 @@
 
 Unity 6000.0.64f1
 
+Builtin RP
+
 空白模板预装插件
 
 vTools工具:
